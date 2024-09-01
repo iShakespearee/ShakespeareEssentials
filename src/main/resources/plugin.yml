@@ -6,6 +6,7 @@ authors: [Shakespeare]
 description: Amazing lectureplugin
 website: Macbeth.org
 commands:
+  discord:
   punish:
   book:
   yemen:

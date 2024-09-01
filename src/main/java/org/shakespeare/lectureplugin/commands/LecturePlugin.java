@@ -26,7 +26,7 @@ public final class LecturePlugin extends JavaPlugin {
         getServer().getPluginManager().registerEvents(new Tablist(), this);
         getServer().getPluginManager().registerEvents(vanishCommand, this);
 
-        // <33333
+        // Banner testing with country flagd
 
         getCommand("palestine").setExecutor(new PalestineBannerCommand());
         getCommand("yemen").setExecutor(new YemenBannerCommand());
@@ -37,6 +37,7 @@ public final class LecturePlugin extends JavaPlugin {
         getCommand("kaboom").setExecutor(new FireballCommand());
         getCommand("bababoi").setExecutor(new FireballCommand());
         getCommand("book").setExecutor(new WizardBookCommand());
+        getCommand("discord").setExecutor(new DiscordCommand());
 
 
         // All GameMode commands!

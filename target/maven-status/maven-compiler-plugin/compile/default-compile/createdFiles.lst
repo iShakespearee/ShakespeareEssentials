@@ -17,6 +17,7 @@ org/shakespeare/lectureplugin/commands/EffectGodCommand.class
 org/shakespeare/lectureplugin/commands/FireballCommand.class
 org/shakespeare/lectureplugin/commands/LecturePlugin.class
 org/shakespeare/lectureplugin/events/JoinEvent.class
+org/shakespeare/lectureplugin/commands/DiscordCommand.class
 org/shakespeare/lectureplugin/commands/AdventureCommand.class
 org/shakespeare/lectureplugin/commands/HealCommand.class
 org/shakespeare/lectureplugin/commands/EffectStrengthCommand.class
