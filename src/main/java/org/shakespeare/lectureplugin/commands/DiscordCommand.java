@@ -14,18 +14,14 @@ public class DiscordCommand implements CommandExecutor {
     public boolean onCommand(CommandSender commandSender, Command command, String s, String[] args) {
         if (commandSender instanceof Player) {
             Player player = (Player) commandSender;
-            if (args.length == 0) {
 
                 /* YOU CAN MAKE CASES AND BREAKS FOR OTHER SERVERS
                 EXAMPLE:
                 /discord <learnspigot/freshsmp/hypixel> etc..!!!
                  */
 
-            player.sendMessage("§ediscord.gg/learnspigot");
+            player.sendMessage("§e§lCLICK TO JOIN OUR DISCORD SERVER: §ediscord.gg/learnspigot");
 
-            } else if (args.length != 0) {
-                player.sendMessage("c§§lINVALID USAGE! §c/discord");
-            }
 
         }
             return false;
