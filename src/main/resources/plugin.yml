@@ -1,0 +1,53 @@
+name: LecturePlugin
+version: '${project.version}'
+main: org.shakespeare.lectureplugin.commands.LecturePlugin
+api-version: '1.20'
+authors: [Shakespeare]
+description: Amazing lectureplugin
+website: Macbeth.org
+commands:
+  punish:
+  book:
+  yemen:
+  palestine:
+  bababoi:
+  kaboom:
+  dragonbreath:
+  vanishabout:
+  v:
+  vanish:
+  gm:
+  killmyself:
+  suicide:
+  alertplayers:
+  alert:
+    permission: myessentials.alert
+  serverbc:
+    permission: myessentials.broadcast
+  broadcast:
+    permission: myessentials.broadcast
+  openender:
+  openenderchest:
+  ecsee:
+  ecopen:
+    permission: myessentials.ecopen
+  ec:
+    permission: myessentials.ec
+  invsee:
+  openinv:
+  invopen:
+    permission: myessentials.invsee
+  effectclearall:
+  effectgod:
+  effectinvis:
+  effectresistance:
+  effectspeed:
+  effectstrength:
+  levelup:
+  feed:
+  heal:
+  gmc:
+  gms:
+  gmsp:
+  gma:
+  fly:
